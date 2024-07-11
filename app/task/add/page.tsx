@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import React from 'react'
-import { createTask } from '@/app/utilites/action';
+import { createTask } from '@/utilites/action';
 
 import AddTaskForm from '@/components/AddTaskForm';
 
